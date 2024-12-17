@@ -15,11 +15,11 @@ My name is **Dung Vu**. It's **Dũng** in Vietnamese, pronounced in English as *
 - Game development and 2D/3D Graphics programming.
 
 ### Skills
-- Python, Golang, Typescript, C#, Rust.
-- Pytorch, LLMs (Mistral, Gemma).
+- Python, Golang, TypeScript, C#, Rust.
+- PyTorch, LLMs (Mistral, Gemma, OpenAI ChatGPT).
 - Docker, Kubernetes, Terraform, Linux, AWS, GCP.
 - Unity3D, Blender3D, GAMA Platform.
-- SQL, MongoDB, Elasticsearch, Redis.
+- SQL, MongoDB, Elasticsearch, Redis, Kafka.
 
 ### Projects
 
