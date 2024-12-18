@@ -23,7 +23,11 @@ My name is **Dung Vu**. It's **Dũng** in Vietnamese, pronounced in English as *
 
 ### Projects
 
-I have participated in several AI competitions; find them below.
+I have participated in several AI competitions; find the code below.
+
+- Zalo AI Challenge 2022 - Vietnamese E2E Question Answering (https://challenge.zalo.ai/)
+- Kalapa Challenge 2023 - Vietnamese medical question answering (https://challenge.kalapa.vn/)
+- Kaggle - LLM Prompt Recovery 2024 (https://www.kaggle.com/competitions/llm-prompt-recovery)
 
 <!--
 **dungzvu/dungzvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
