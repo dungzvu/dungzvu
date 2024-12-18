@@ -31,7 +31,7 @@ I have participated in several AI competitions; find the code below.
 
 ### Fun facts
 
-⚡️ My love for Computer Graphics led me to teach myself Blender, and I even designed my university’s logo from scratch!
+⚡️ I taught myself Blender, and I even designed my university’s logo from scratch!
 
 ![HUST_Logo_Blender3D](https://github.com/user-attachments/assets/353d0730-890c-4e38-a3f9-a0521f19ce5c)
 
