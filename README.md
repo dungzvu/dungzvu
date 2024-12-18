@@ -29,6 +29,11 @@ I have participated in several AI competitions; find the code below.
 - Kalapa Challenge 2023 - Vietnamese medical question answering (https://challenge.kalapa.vn/)
 - Kaggle - LLM Prompt Recovery 2024 (https://www.kaggle.com/competitions/llm-prompt-recovery)
 
+### Fun facts
+I taught myself Blender and created my university's logo using it!
+![HUST_Logo_Blender3D](https://github.com/user-attachments/assets/94ec2f48-6d85-49cd-8b37-c3d6aa661ba8)
+
+
 <!--
 **dungzvu/dungzvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
